@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Logs
+*.log
+migration_*.log
+validation_*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Backups
+*.sql.backup
+*.dump
+
+# IDE
+.vscode/
+.idea/
+*.swp
